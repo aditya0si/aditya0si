@@ -24,4 +24,4 @@ IBM · HCLTech
 
 ## Links
 
-[LinkedIn](https://www.linkedin.com/in/aditya-singh-387774295) · [Email](mailto:aditya0si@gmail.com) · [Portfolio](https://adityasingh.ai.studio)
+[LinkedIn](https://www.linkedin.com/in/aditya-singh-387774295) · [Email](mailto:oliaditya05@gmail.com) · [Portfolio](https://adityasingh.ai.studio)
