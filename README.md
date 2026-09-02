@@ -1,44 +1,27 @@
-# Aditya Singh — Hardware + AI Systems
+# Aditya Singh
 
-**Hardware Engineer (GSC/PCQO focus) • PCB • SI/PI • ASIC Validation • Test Automation • Supply Chain AI**
+Software Engineer | Backend • Full-Stack • AI Systems
 
-Bangalore, India · [LinkedIn](https://www.linkedin.com/in/aditya-singh-387774295) · [Email](mailto:oliaditya05@gmail.com) · [Portfolio](https://adityasingh.ai.studio)
+I build production-grade backend and AI systems — FastAPI services, data pipelines, and LLM-powered products with real observability, testing, and compliance discipline.
 
----
+## Currently building
 
-### 🔬 Hardware Labs — Live Demos (GitHub Pages)
+- **[JARVIS](https://github.com/aditya0si/visionpro)** — spatial/3D command-center web app (WIP)
 
-> NPI-focused: DFM/DFT, SI/PI, PDN/thermal, ASIC/DFT, ATE, BOM intelligence — interactive viewers, fabrication-ready.
+## Featured projects
 
-| Lab | Live Demo | Repo | Focus |
-|-----|-----------|------|-------|
-| **4-Layer Network Board** | [→ Live](https://aditya0si.github.io/pcb-dfm-dft/) | [pcb-dfm-dft](https://github.com/aditya0si/pcb-dfm-dft) | DFM 0, 54 test points, JTAG, IPC Class 2, STM32 + PHY |
-| **Signal & Power Integrity** | [→ Live](https://aditya0si.github.io/si-pi-lab/) | [si-pi-lab](https://github.com/aditya0si/si-pi-lab) | 312mV eye, 49.2Ω/96.8Ω, -35dB xtalk |
-| **Power Delivery & Thermal** | [→ Live](https://aditya0si.github.io/pdn-thermal-lab/) | [pdn-thermal-lab](https://github.com/aditya0si/pdn-thermal-lab) | 94.2% buck, MTBF 185k hrs, FMEA |
-| **ASIC CRC Engine** | [→ Live](https://aditya0si.github.io/asic-crc-engine/) | [asic-crc-engine](https://github.com/aditya0si/asic-crc-engine) | Verilog/SV 412 tests, 100% cov, 98.7% fault, SDC |
-| **ATE Fixture** | [→ Live](https://aditya0si.github.io/ate-fixture-lab/) | [ate-fixture-lab](https://github.com/aditya0si/ate-fixture-lab) | 54-pogo JTAG, 42s, PyVISA/pytest |
-| **BOM Intelligence** | [→ Live](https://aditya0si.github.io/bom-intelligence/) | [bom-intelligence](https://github.com/aditya0si/bom-intelligence) | LLM + Pandas, -23% cost, 41 alts |
+- **[CoverAI](https://github.com/aditya0si/CoverAI)** — AI vehicle-insurance platform: RAG policy Q&A, claims triage, RBAC, DPDP-compliant data handling (FastAPI + Next.js)
+- **[DevAtlas](https://github.com/aditya0si/DevAtlas)** — developer-ecosystem intelligence: GitHub activity maps, repo classification, trend analysis (FastAPI + PostGIS + MapLibre)
+- **[Sentinel](https://github.com/aditya0si/Sentinel)** — guardrails & quality-gate framework for agentic AI: schema, safety, hallucination, and business-rule validation (Python + OpenTelemetry)
 
-`pcb-dfm-dft` ↔ `si-pi-lab` ↔ `pdn-thermal-lab` ↔ `ate-fixture-lab` is one NPI chain — same 4-layer board.
+## Technical focus
 
----
+Backend • Distributed Systems • Databases • Cloud • LLM Systems
 
-### Also building — AI Systems & Backend
+## Experience
 
-- **[CoverAI](https://github.com/aditya0si/CoverAI)** — RAG policy Q&A + claims triage (FastAPI + Next.js, DPDP-compliant)
-- **[DevAtlas](https://github.com/aditya0si/DevAtlas)** — GitHub activity maps + repo classification (PostGIS + MapLibre)
-- **[Sentinel](https://github.com/aditya0si/Sentinel)** — guardrails for agentic AI (OpenTelemetry + quality gates)
-- **[OpenCode-Team](https://github.com/aditya0si/OpenCode-Team)** — opencode teamwork plugin (10 agents, DAG)
+IBM · HCLTech
 
-<details>
-<summary>More hardware docs</summary>
+## Links
 
-- DFM/DFT Strategy, Bring-up (with debug story), FMEA, Validation Plan, EMC addendum, SDC/MBIST notes — in each repo `docs/`
-- Interactive viewers are pure HTML/JS + Chart.js — run offline, no backend.
-
-</details>
-
----
-
-**Focus:** Hardware NPI • Manufacturing-aware design • Signal/Power Integrity • Test automation • Supply-chain AI (LLM + data)
-
+[LinkedIn](https://www.linkedin.com/in/aditya-singh-387774295) · [Email](mailto:oliaditya05@gmail.com) · [Portfolio](https://adityasingh.ai.studio)
